@@ -1,5 +1,5 @@
-#include <MsgBoxConstants.au3>
-#include <AutoItConstants.au3>
+//#include <MsgBoxConstants.au3>
+//#include <AutoItConstants.au3>
 Global $g_bPaused = False
 HotKeySet("{ESC}", "Terminate")
 
